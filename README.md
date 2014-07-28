@@ -1,6 +1,6 @@
 # Google Analytics Tracker
 
-* Author: [Diogo Silva](https://github.com/diogomiguel)
+* Author: [Diogo Silva](https://github.com/diogomiguel/ee_ga_tracker)
 
 ## Version 0.0.1
 
