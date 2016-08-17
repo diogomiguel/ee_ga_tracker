@@ -2,7 +2,7 @@
 
 * Author: [Diogo Silva](https://github.com/diogomiguel/ee_ga_tracker)
 
-## Version 0.0.1
+## Version 0.0.2
 
 Tested only on Expression Engine 2.7+. Shouldn't raise any compatibility problems on any Expression Engine 2+ version, but use with caution.
 
